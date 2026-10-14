@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" fill="none" role="img" aria-label="No results illustration">
+  <circle cx="234" cy="166" r="146" fill="#EDE9DE" />
+  <circle cx="234" cy="166" r="146" fill="none" stroke="#E2DCC9" stroke-width="2" />
+
+  <path d="M292 226L350 284" stroke="#0F5132" stroke-width="30" stroke-linecap="round" />
+  <path d="M314 248L344 278" stroke="#2E8B57" stroke-width="30" stroke-linecap="round" />
+
+  <circle cx="224" cy="156" r="92" fill="#F8F7F1" stroke="#0F5132" stroke-width="14" />
+
+  <g transform="translate(196 118) scale(2.5)">
+    <path d="M2 24C2 10 12 2 26 0C26 14 16 24 2 24Z" fill="#2E8B57" />
+    <path d="M4 22C10 16 18 8 24 3" stroke="#E1EDD9" stroke-width="1.6" stroke-linecap="round" />
+  </g>
+
+  <g stroke="#0F5132" stroke-width="7" stroke-linecap="round" opacity="0.45">
+    <path d="M158 118L146 106" />
+    <path d="M150 172L134 172" />
+    <path d="M174 224L162 236" />
+  </g>
+
+  <g transform="translate(344 84) scale(1)">
+    <path d="M2 24C2 10 12 2 26 0C26 14 16 24 2 24Z" fill="#2E8B57" />
+    <path d="M4 22C10 16 18 8 24 3" stroke="#EDE9DE" stroke-width="1.6" stroke-linecap="round" />
+  </g>
+  <g transform="translate(96 250) scale(0.85) rotate(-30)">
+    <path d="M2 24C2 10 12 2 26 0C26 14 16 24 2 24Z" fill="#2E8B57" />
+    <path d="M4 22C10 16 18 8 24 3" stroke="#EDE9DE" stroke-width="1.6" stroke-linecap="round" />
+  </g>
+</svg>

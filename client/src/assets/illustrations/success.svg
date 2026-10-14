@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" fill="none" role="img" aria-label="Success illustration">
+  <circle cx="240" cy="180" r="144" fill="#E1EDD9" />
+  <circle cx="240" cy="180" r="144" fill="none" stroke="#D3E6D6" stroke-width="2" />
+
+  <g transform="translate(240 180) scale(3.2) translate(-32 -32)" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#0F5132" stroke-width="6.5">
+      <path d="M 29.91 8.09 A 24 24 0 0 1 55.91 34.09" />
+      <path d="M 12.34 45.77 A 24 24 0 0 1 21.86 10.25" />
+      <path d="M 53.75 42.14 A 24 24 0 0 1 18.23 51.66" />
+    </g>
+    <polygon points="55.08,43.56 49.86,32.06 62.22,33.14" fill="#0F5132" stroke="none" />
+    <polygon points="30.47,6.23 23.12,16.50 17.88,5.26" fill="#0F5132" stroke="none" />
+    <polygon points="10.45,46.21 23.02,47.44 15.91,57.60" fill="#2E8B57" stroke="none" />
+  </g>
+
+  <circle cx="240" cy="180" r="54" fill="#0F5132" />
+  <path d="M218 181L233 196L264 163" stroke="#F8F7F1" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" />
+
+  <g transform="translate(116 92) scale(1.15) rotate(-20)">
+    <path d="M2 24C2 10 12 2 26 0C26 14 16 24 2 24Z" fill="#2E8B57" />
+    <path d="M4 22C10 16 18 8 24 3" stroke="#E1EDD9" stroke-width="1.6" stroke-linecap="round" />
+  </g>
+  <g transform="translate(350 262) scale(1.15) rotate(18)">
+    <path d="M2 24C2 10 12 2 26 0C26 14 16 24 2 24Z" fill="#2E8B57" />
+    <path d="M4 22C10 16 18 8 24 3" stroke="#E1EDD9" stroke-width="1.6" stroke-linecap="round" />
+  </g>
+  <g stroke="#2E8B57" stroke-width="6" stroke-linecap="round" opacity="0.6">
+    <path d="M116 180H98" />
+    <path d="M362 180H380" />
+    <path d="M240 64V46" />
+    <path d="M240 302V284" />
+  </g>
+</svg>

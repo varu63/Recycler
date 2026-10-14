@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Rubber">
+  <circle cx="32" cy="32" r="26" fill="#142934" />
+  <circle cx="32" cy="32" r="21" fill="none" stroke="#2E8B57" stroke-width="4" stroke-dasharray="5 7" />
+  <circle cx="32" cy="32" r="13" fill="#EDE9DE" />
+  <circle cx="32" cy="32" r="6" fill="#0F5132" />
+  <path d="M18 18L23 23" stroke="#2E8B57" stroke-width="3" stroke-linecap="round" />
+</svg>

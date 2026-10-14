@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Material Mundi">
+  <g stroke="#0F5132" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 29.91 8.09 A 24 24 0 0 1 55.91 34.09" />
+    <path d="M 12.34 45.77 A 24 24 0 0 1 21.86 10.25" />
+  </g>
+  <path d="M 53.75 42.14 A 24 24 0 0 1 18.23 51.66" stroke="#2E8B57" stroke-width="6.5" stroke-linecap="round" />
+  <polygon points="55.08,43.56 49.86,32.06 62.22,33.14" fill="#0F5132" />
+  <polygon points="30.47,6.23 23.12,16.50 17.88,5.26" fill="#0F5132" />
+  <polygon points="10.45,46.21 23.02,47.44 15.91,57.60" fill="#2E8B57" />
+  <g stroke="#0F5132" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M22 40V25" />
+    <path d="M42 40V25" />
+  </g>
+  <path d="M22 25L32 34.5L42 25" stroke="#2E8B57" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

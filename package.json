@@ -1,0 +1,34 @@
+{
+  "name": "material-mundi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Material Mundi — Turn Waste Into Value. A secure MERN marketplace for waste material sourcing and processed material sales.",
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "dev": "concurrently -n server,client -c green,cyan \"npm run dev -w server\" \"npm run dev -w client\"",
+    "build": "npm run build -w client && npm run build -w server",
+    "start": "npm run start -w server",
+    "lint": "npm run lint -w client && npm run lint -w server",
+    "format": "prettier --write \"**/*.{ts,tsx,js,jsx,json,css,md,yml}\"",
+    "format:check": "prettier --check \"**/*.{ts,tsx,js,jsx,json,css,md,yml}\"",
+    "typecheck": "npm run typecheck -w client && npm run typecheck -w server",
+    "test": "npm run test -w server",
+    "seed": "npm run seed -w server"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "prettier": "^3.4.2"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true,
+    "esbuild@0.21.5": true,
+    "esbuild@0.25.12": true,
+    "mongodb-memory-server@10.4.3": true
+  }
+}

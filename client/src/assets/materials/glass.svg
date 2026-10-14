@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Glass">
+  <rect x="26" y="4" width="12" height="7" rx="2.5" fill="#0F5132" />
+  <path d="M27 11H37V18C37 22 45 26 45 34V50C45 54 42 57 38 57H26C22 57 19 54 19 50V34C19 26 27 22 27 18V11Z" fill="#E1EDD9" stroke="#0F5132" stroke-width="3.5" stroke-linejoin="round" />
+  <rect x="19.5" y="35" width="25" height="13" fill="#2E8B57" />
+  <rect x="25" y="19" width="4" height="30" rx="2" fill="#F8F7F1" opacity="0.85" />
+</svg>

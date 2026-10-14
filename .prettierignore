@@ -1,0 +1,8 @@
+node_modules
+dist
+build
+coverage
+package-lock.json
+client/dist
+server/dist
+server/uploads

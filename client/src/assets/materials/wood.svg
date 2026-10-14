@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Wood">
+  <rect x="6" y="10" width="52" height="14" rx="6" fill="#EDE9DE" />
+  <path d="M15 17H42" stroke="#2E8B57" stroke-width="3" stroke-linecap="round" />
+  <rect x="6" y="27" width="52" height="14" rx="6" fill="#2E8B57" />
+  <path d="M20 34H48" stroke="#E1EDD9" stroke-width="3" stroke-linecap="round" />
+  <rect x="6" y="44" width="52" height="14" rx="6" fill="#0F5132" />
+  <path d="M15 51H38" stroke="#2E8B57" stroke-width="3" stroke-linecap="round" />
+</svg>

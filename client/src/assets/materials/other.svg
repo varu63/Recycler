@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Other material">
+  <path d="M32 6L56 19V45L32 58L8 45V19L32 6Z" fill="#EDE9DE" />
+  <path d="M32 6L56 19L32 32L8 19L32 6Z" fill="#2E8B57" />
+  <path d="M8 19V45L32 58V32L8 19Z" fill="#0F5132" />
+  <path d="M56 19V45L32 58V32L56 19Z" fill="#142934" />
+  <path d="M20 25.5L32 32V44" stroke="#E1EDD9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.55" />
+</svg>

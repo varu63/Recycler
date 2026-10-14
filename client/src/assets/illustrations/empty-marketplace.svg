@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" fill="none" role="img" aria-label="No listings illustration">
+  <circle cx="240" cy="180" r="146" fill="#EDE9DE" />
+  <circle cx="240" cy="180" r="146" fill="none" stroke="#E2DCC9" stroke-width="2" />
+
+  <g>
+    <path d="M150 176L240 138L330 176L240 214L150 176Z" fill="#2E8B57" />
+    <path d="M150 176V254L240 296V214L150 176Z" fill="#0F5132" />
+    <path d="M330 176V254L240 296V214L330 176Z" fill="#142934" />
+    <path d="M194 158L284 196V274" stroke="#E1EDD9" stroke-width="7" stroke-linecap="round" fill="none" />
+    <path d="M150 214L240 254L330 214" stroke="#E1EDD9" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.55" />
+  </g>
+
+  <g transform="translate(240 92) scale(1.6) translate(-32 -32)" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#0F5132" stroke-width="6.5">
+      <path d="M 29.91 8.09 A 24 24 0 0 1 55.91 34.09" />
+      <path d="M 12.34 45.77 A 24 24 0 0 1 21.86 10.25" />
+      <path d="M 53.75 42.14 A 24 24 0 0 1 18.23 51.66" />
+    </g>
+    <polygon points="55.08,43.56 49.86,32.06 62.22,33.14" fill="#0F5132" stroke="none" />
+    <polygon points="30.47,6.23 23.12,16.50 17.88,5.26" fill="#0F5132" stroke="none" />
+    <polygon points="10.45,46.21 23.02,47.44 15.91,57.60" fill="#0F5132" stroke="none" />
+    <path d="M24 30L30 36L41 24" stroke="#2E8B57" stroke-width="6" fill="none" />
+  </g>
+
+  <g transform="translate(118 268) scale(1.1) rotate(-18)">
+    <path d="M2 24C2 10 12 2 26 0C26 14 16 24 2 24Z" fill="#2E8B57" />
+    <path d="M4 22C10 16 18 8 24 3" stroke="#EDE9DE" stroke-width="1.6" stroke-linecap="round" />
+  </g>
+  <g transform="translate(344 264) scale(1.1) rotate(22)">
+    <path d="M2 24C2 10 12 2 26 0C26 14 16 24 2 24Z" fill="#2E8B57" />
+    <path d="M4 22C10 16 18 8 24 3" stroke="#EDE9DE" stroke-width="1.6" stroke-linecap="round" />
+  </g>
+</svg>
